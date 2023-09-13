@@ -1,5 +1,5 @@
 # deadyen_emotes
-[![deadyen_emotes](https://github.com/deadyen/deadyen_emotes/assets/71902025/4ab17f39-8b90-4b72-a4ca-179522d48506)](https://youtu.be/2jZjLNM5izA)
+![deadyen_emotes](https://forum.cfx.re/uploads/default/original/4X/b/c/9/bc98dfaa4b43aa18b420255e479608690178fa1c.jpeg)
 # [Preview](https://youtu.be/2jZjLNM5izA)
 # [Buy It Here!](https://deadyen.tebex.io/package/5822282)
 ## Introducing the dead.yen emote menu - The Ultimate Emote and Animation Collection!
@@ -23,4 +23,4 @@ We understand the importance of muscle memory in role-playing, especially for se
 
 # Config:
 ### WARNING: This script uses Cfx Asset Escrow system meaning you cannot edit anything not included within this config below.
-![Config](https://github.com/deadyen/deadyen_emotes/assets/71902025/15c5b902-18c6-4865-a901-462a7588f8be)
+![Config](https://forum.cfx.re/uploads/default/original/4X/5/a/8/5a8220c1503bd86ee76c544a38edb9e8fda6f323.png)
