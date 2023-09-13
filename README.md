@@ -1,7 +1,7 @@
 # deadyen_emotes
 [![deadyen_emotes](https://github.com/deadyen/deadyen_emotes/assets/71902025/4ab17f39-8b90-4b72-a4ca-179522d48506)](https://youtu.be/2jZjLNM5izA)
 # [Preview](https://youtu.be/2jZjLNM5izA)
-
+# [Buy It Here!](https://deadyen.tebex.io/package/5822282)
 ## Introducing the dead.yen emote menu - The Ultimate Emote and Animation Collection!
 
 Unlock a world of expression and fluidity with our RedM Emote Menu! Packed with over 250 handpicked animations, emotes, and dances, this comprehensive menu is designed to elevate your role-playing experience in RedM to unprecedented heights.
